@@ -1,5 +1,7 @@
 # Terraform Course
 
+Before to begin, you need to prepare your environment for the practise.
+
 ## Installation
 
 ### Docker
